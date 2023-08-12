@@ -1,0 +1,2 @@
+Write a Cairo function called print_odd_numbers that takes an integer n as input and
+prints all odd numbers from 1 to n. Test the function with different values of n. 
